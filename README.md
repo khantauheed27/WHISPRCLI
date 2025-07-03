@@ -139,7 +139,7 @@ This project is licensed under the MIT License.
 Tauheed Abdullah Khan  
 🎓 Final Year Student - B.Tech in AI & Data Science  
 🏫 MIT 
-🔗 GitHub: https://github.com/khantauheed85
+🔗 GitHub: https://github.com/khantauheed27
 
 > This project is part of the Cloud Computing Honors Curriculum to demonstrate real-world BaaS integration using Firebase.
 
