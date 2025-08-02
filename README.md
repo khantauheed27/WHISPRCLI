@@ -6,8 +6,7 @@ WebChatCLI is a terminal-themed, hacker-style real-time chat application inspire
 
 ## 🚀 Live Demo
 
-🔗 https://whisprcli.web.app  
-> Replace this with your actual Firebase Hosting URL.
+🔗 https://whisprcli.web.app
 
 ---
 
